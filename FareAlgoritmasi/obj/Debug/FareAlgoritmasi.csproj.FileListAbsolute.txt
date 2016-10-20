@@ -1,0 +1,9 @@
+\\Mac\Home\Documents\Visual Studio 2015\Projects\westline\FareAlgoritmasi\FareAlgoritmasi\bin\Debug\FareAlgoritmasi.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\westline\FareAlgoritmasi\FareAlgoritmasi\bin\Debug\FareAlgoritmasi.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\westline\FareAlgoritmasi\FareAlgoritmasi\bin\Debug\FareAlgoritmasi.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\westline\FareAlgoritmasi\FareAlgoritmasi\obj\Debug\FareAlgoritmasi.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\westline\FareAlgoritmasi\FareAlgoritmasi\obj\Debug\FareAlgoritmasi.Form1.resources
+\\Mac\Home\Documents\Visual Studio 2015\Projects\westline\FareAlgoritmasi\FareAlgoritmasi\obj\Debug\FareAlgoritmasi.Properties.Resources.resources
+\\Mac\Home\Documents\Visual Studio 2015\Projects\westline\FareAlgoritmasi\FareAlgoritmasi\obj\Debug\FareAlgoritmasi.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\westline\FareAlgoritmasi\FareAlgoritmasi\obj\Debug\FareAlgoritmasi.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\westline\FareAlgoritmasi\FareAlgoritmasi\obj\Debug\FareAlgoritmasi.pdb
